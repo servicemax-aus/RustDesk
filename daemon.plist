@@ -6,7 +6,7 @@
         <string>om.servicemax.rdesk.*</string>
 
 	<key>AssociatedBundleIdentifiers</key>
-	<string>om.servicemax.rdesk</string>
+	<string>com.servicemax.rdesk</string>
     
         <key>KeepAlive</key>
         <true/>
