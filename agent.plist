@@ -3,7 +3,7 @@
 <plist version="1.0">
     <dict>
         <key>Label</key>
-        <string>com.servicemax.rdesk_server</string>
+        <string>com.servicemax.rdesk.*</string>
 
 	<key>AssociatedBundleIdentifiers</key>
 	<string>com.servicemax.rdesk</string>
