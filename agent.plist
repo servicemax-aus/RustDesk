@@ -27,7 +27,6 @@
         <key>ProgramArguments</key>
         <array>
             <string>/Applications/ServicemaxRemoteSupport.app/Contents/MacOS/ServicemaxRemoteSupport</string>
-            <string>--server</string>
         </array>
         <key>WorkingDirectory</key>
         <string>/Applications/ServicemaxRemoteSupport.app/Contents/MacOS/</string>
